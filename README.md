@@ -10,3 +10,4 @@ An application scans depth using a LiDAR sensor and sends it through NDI
 
 ## Download
 Released on the Apple App Store.    
+Note: Depth capturing functionality requires an A12 Bionic processor(or later) and LiDAR sensor.    
