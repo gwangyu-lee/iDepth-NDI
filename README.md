@@ -1,4 +1,5 @@
 # iDepth-NDI
+An application scans depth using a LiDAR sensor and sends it through NDI    
 
 ![IMG_0001](https://github.com/user-attachments/assets/0f097236-4d49-4097-a652-decd29c5fd9a)
 
