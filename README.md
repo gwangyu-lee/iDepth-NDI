@@ -8,5 +8,5 @@ An application scans depth using a LiDAR sensor and sends it through NDI
 <a href="https://www.gwangyulee.com/p/idepth-ndi-tutorial-jp.html" target="_blank">iDepth NDI & TouchDesigner チュートリアル</a>    
 <a href="https://www.gwangyulee.com/p/idepth-ndi-tutorial-kr.html" target="_blank">iDepth NDI & TouchDesigner 튜토리얼</a>    
 
-## How to download
+## Download
 Released on the Apple App Store.    
